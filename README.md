@@ -9,4 +9,4 @@ A new section in my repo.
 - list item 3
 
 # A New Section
-This is a new section.
+This is a new section. 
